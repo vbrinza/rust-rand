@@ -1,0 +1,2 @@
+# rust-rand
+Rust playground
